@@ -1,4 +1,8 @@
 div {
   -webkit-text-decoration: solid;
           text-decoration: solid;
+  text-align: center;
+  text-transform: uppercase;
+  font-size: 100px;
+  font-weight: bold;
 }/*# sourceMappingURL=pastini.css.map */
